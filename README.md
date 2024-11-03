@@ -1,0 +1,2 @@
+# MyFastAPI
+Test project (warehouse)
